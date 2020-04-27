@@ -1,0 +1,9 @@
+/* Code tidied up by ScrapBook */
+@font-face {
+  font-family: "FontAwesome";
+  font-style: normal;
+  font-weight: 400;
+  src: url("fontawesome-webfont_001.eot") format("embedded-opentype"), url("fontawesome-webfont_001.woff") format("woff"), url("fontawesome-webfont_001.ttf") format("truetype");
+}
+.wpmenucart-icon-shopping-cart-0::before { font-family: "FontAwesome"; font-style: normal; font-weight: normal; display: inline; width: auto; height: auto; line-height: normal; text-decoration: inherit; vertical-align: baseline; background-image: none; background-position: 0px 0px; background-repeat: repeat; margin-top: 0px; margin-right: 0.25em; }
+.wpmenucart-icon-shopping-cart-0::before { content: ""; }
